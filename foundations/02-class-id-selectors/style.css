@@ -1,0 +1,19 @@
+p {
+    background-color: rgb(255, 194, 204);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.cool-class,
+#second-id {
+    font-size: 24px;
+}
+
+#first-id {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#second-id {
+    background-color: rgb(0, 128, 0);
+    font-weight: bold;
+}
